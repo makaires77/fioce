@@ -1,0 +1,6 @@
+2023-09-03 17:08:08,024 - elsapy.elsclient - INFO - Module loaded.
+2023-09-03 17:08:09,272 - elsapy.utils - INFO - Module loaded.
+2023-09-03 17:08:09,272 - elsapy.elssearch - INFO - Module loaded.
+2023-09-03 17:08:09,274 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=DoWhy+AND+%28DOCTYPE%28review%29+OR+DOCTYPE%28research-article%29%29
+2023-09-03 17:08:36,448 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=DoWhy+AND+%28DOCTYPE%28review%29+OR+DOCTYPE%28research-article%29%29
+2023-09-03 17:09:12,273 - elsapy.elsclient - INFO - Sending GET request to https://api.elsevier.com/content/search/scidir?query=DoWhy+AND+%28DOCTYPE%28review%29+OR+DOCTYPE%28research-article%29%29
