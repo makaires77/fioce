@@ -1,0 +1,510 @@
+INFO:root:Vínculo encontrado no currículo de nome: Alice Paula Di Sabatino Guimarães
+INFO:root:002 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ana Cláudia de Araújo Teixeira
+INFO:root:008 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ana Camila Oliveira Alves
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Vínculo encontrado no currículo de nome: Angela Christina de Moraes Ostritz
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Adriana Costa Bacelo
+INFO:root:023 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Anna Carolina Machado Marinho
+INFO:root:006 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Antonio Marcos Aires Barbosa
+INFO:root:002 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Anya Pimentel Gomes Fernandes Vieira Meyer
+INFO:root:100 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Bruno Bezerra Carvalho
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Carla Freire Celedonio Fernandes
+INFO:root:041 artigos extraídos
+INFO:root:Currículo não encontrado: Carlos Jose Araujo Pinheiro
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Carlos Jose Araujo Pinheiro: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Claudia Stutz Zubieta
+INFO:root:003 artigos extraídos
+INFO:root:Currículo não encontrado: Charles Cerqueira De Abreu
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Charles Cerqueira De Abreu: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Clarice Gomes e Souza Dabés
+INFO:root:002 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Clarissa Romero Teixeira
+INFO:root:043 artigos extraídos
+INFO:root:Currículo não encontrado: Dayane Alves Costa
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Dayane Alves Costa: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Donat Alexander de Chapeaurouge
+INFO:root:043 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Eduardo Ruback dos Santos
+INFO:root:005 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ezequiel Valentim de Melo
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Fabio Miyajima
+INFO:root:064 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Fernando Braga Stehling Dias
+INFO:root:023 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Fernando Ferreira Carneiro
+INFO:root:062 artigos extraídos
+INFO:root:Currículo não encontrado: Galba Freire Moita
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Galba Freire Moita: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Giovanny Augusto Camacho Antevere Mazzarotto
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Vínculo encontrado no currículo de nome: Gilvan Pessoa Furtado
+INFO:root:024 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ivana Cristina de Holanda Cunha Barreto
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Vínculo encontrado no currículo de nome: Ivanildo Lopes Farias
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Jaime Ribeiro Filho
+INFO:root:104 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: João Baptista Estabile Neto
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: João Hermínio Martins da Silva
+INFO:root:029 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: José Luís Passos Cordeiro
+INFO:root:042 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Kamila Matos de Albuquerque
+INFO:root:001 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Luciana Coelho Serafim
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Luciana Pereira Lindenmeyer
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Vínculo encontrado no currículo de nome: Luciana Silvério Alleluia Higino da Silva
+ERROR:root:Sem respota antes do timeout
+INFO:root:Currículo não encontrado: Luciano Pinto Zorzanelli
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Luciano Pinto Zorzanelli: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Luis Fernando Pessoa de Andrade
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Luiz Odorico Monteiro de Andrade
+INFO:root:084 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Marcela Helena Gambim Fonseca
+INFO:root:017 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Marcelo Jorge Lopes Coutinho
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Marcos Roberto Lourenzoni
+INFO:root:026 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Márcio Flávio Moura de Araújo
+INFO:root:142 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Margareth Borges Coutinho Gallo
+INFO:root:018 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Marlos de Medeiros Chaves
+INFO:root:007 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Maximiliano Loiola Ponte de Souza
+INFO:root:044 artigos extraídos
+INFO:root:Currículo não encontrado: Nilton Luiz Costa Machado
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Nilton Luiz Costa Machado: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Patricia Maria Ferreira da Silva
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Raphael Trevizani
+INFO:root:004 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Regis Bernardo Brandim Gomes
+INFO:root:038 artigos extraídos
+INFO:root:Currículo não encontrado: Renato Caldeira De Souza
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Renato Caldeira De Souza: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Roberto Nicolete
+INFO:root:056 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Roberto Wagner Júnior Freire de Freitas
+INFO:root:092 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Rodrigo Carvalho Nogueira
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Currículo não encontrado: Sergio Dos Santos Reis
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Sergio Dos Santos Reis: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Sharmênia de Araújo Soares Nuto
+INFO:root:050 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Vanira Matos Pessoa
+INFO:root:029 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Venúcia Bruna Magalhães Pereira
+INFO:root:006 artigos extraídos
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF59E16550>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/6063b01acded29d7120f483b4bf254a8
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF5344ABD0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/6063b01acded29d7120f483b4bf254a8
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF5895AE90>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/6063b01acded29d7120f483b4bf254a8
+INFO:root:Vínculo encontrado no currículo de nome: Alice Paula Di Sabatino Guimarães
+INFO:root:002 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ana Cláudia de Araújo Teixeira
+INFO:root:008 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ana Camila Oliveira Alves
+INFO:root:002 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Angela Christina de Moraes Ostritz
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Adriana Costa Bacelo
+INFO:root:023 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Anna Carolina Machado Marinho
+INFO:root:006 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Antonio Marcos Aires Barbosa
+INFO:root:002 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Anya Pimentel Gomes Fernandes Vieira Meyer
+INFO:root:100 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Bruno Bezerra Carvalho
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Carla Freire Celedonio Fernandes
+INFO:root:041 artigos extraídos
+INFO:root:Currículo não encontrado: Carlos Jose Araujo Pinheiro
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Carlos Jose Araujo Pinheiro: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Claudia Stutz Zubieta
+INFO:root:003 artigos extraídos
+INFO:root:Currículo não encontrado: Charles Cerqueira De Abreu
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Charles Cerqueira De Abreu: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Clarice Gomes e Souza Dabés
+INFO:root:002 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Clarissa Romero Teixeira
+INFO:root:043 artigos extraídos
+INFO:root:Currículo não encontrado: Dayane Alves Costa
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Dayane Alves Costa: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Donat Alexander de Chapeaurouge
+INFO:root:043 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Eduardo Ruback dos Santos
+INFO:root:005 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ezequiel Valentim de Melo
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Fabio Miyajima
+INFO:root:064 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Fernando Braga Stehling Dias
+INFO:root:023 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Fernando Ferreira Carneiro
+INFO:root:062 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Galba Freire Moita
+INFO:root:011 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Giovanny Augusto Camacho Antevere Mazzarotto
+INFO:root:011 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Gilvan Pessoa Furtado
+INFO:root:024 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Ivana Cristina de Holanda Cunha Barreto
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Vínculo encontrado no currículo de nome: Ivanildo Lopes Farias
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Jaime Ribeiro Filho
+INFO:root:104 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: João Baptista Estabile Neto
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: João Hermínio Martins da Silva
+INFO:root:029 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: José Luís Passos Cordeiro
+INFO:root:042 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Kamila Matos de Albuquerque
+INFO:root:001 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Luciana Coelho Serafim
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Luciana Pereira Lindenmeyer
+INFO:root:001 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Luciana Silvério Alleluia Higino da Silva
+ERROR:root:Sem respota antes do timeout
+INFO:root:Currículo não encontrado: Luciano Pinto Zorzanelli
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Luciano Pinto Zorzanelli: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Luis Fernando Pessoa de Andrade
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Luiz Odorico Monteiro de Andrade
+INFO:root:084 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Marcela Helena Gambim Fonseca
+INFO:root:017 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Marcelo Jorge Lopes Coutinho
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Marcos Roberto Lourenzoni
+INFO:root:026 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Márcio Flávio Moura de Araújo
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Vínculo encontrado no currículo de nome: Margareth Borges Coutinho Gallo
+INFO:root:018 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Marlos de Medeiros Chaves
+INFO:root:007 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Maximiliano Loiola Ponte de Souza
+INFO:root:044 artigos extraídos
+INFO:root:Currículo não encontrado: Nilton Luiz Costa Machado
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Nilton Luiz Costa Machado: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Patricia Maria Ferreira da Silva
+ERROR:root:Sem respota antes do timeout
+INFO:root:Vínculo encontrado no currículo de nome: Raphael Trevizani
+INFO:root:004 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Regis Bernardo Brandim Gomes
+INFO:root:038 artigos extraídos
+INFO:root:Currículo não encontrado: Renato Caldeira De Souza
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Renato Caldeira De Souza: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Roberto Nicolete
+INFO:root:056 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Roberto Wagner Júnior Freire de Freitas
+INFO:root:092 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Rodrigo Carvalho Nogueira
+ERROR:root:Erro inesperado ao extrair tooltips: Message: element not interactable: [object HTMLImageElement] has no size and location
+  (Session info: chrome=117.0.5938.150)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F38978A2+54818]
+	(No symbol) [0x00007FF7F3806AD2]
+	(No symbol) [0x00007FF7F36BDA3B]
+	(No symbol) [0x00007FF7F36C246D]
+	(No symbol) [0x00007FF7F36C3F5F]
+	(No symbol) [0x00007FF7F36C4050]
+	(No symbol) [0x00007FF7F3703DB1]
+	(No symbol) [0x00007FF7F37034C6]
+	(No symbol) [0x00007FF7F373F958]
+	(No symbol) [0x00007FF7F371EAAA]
+	(No symbol) [0x00007FF7F37375A2]
+	(No symbol) [0x00007FF7F371E883]
+	(No symbol) [0x00007FF7F36F3691]
+	(No symbol) [0x00007FF7F36F48D4]
+	GetHandleVerifier [0x00007FF7F3BFB9A2+3610402]
+	GetHandleVerifier [0x00007FF7F3C51870+3962352]
+	GetHandleVerifier [0x00007FF7F3C49D5F+3930847]
+	GetHandleVerifier [0x00007FF7F3933656+693206]
+	(No symbol) [0x00007FF7F3811638]
+	(No symbol) [0x00007FF7F380D944]
+	(No symbol) [0x00007FF7F380DA72]
+	(No symbol) [0x00007FF7F37FE123]
+	BaseThreadInitThunk [0x00007FFBA3187344+20]
+	RtlUserThreadStart [0x00007FFBA36426B1+33]
+
+INFO:root:Currículo não encontrado: Sergio Dos Santos Reis
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Vínculo não encontrado, passando para o próximo nome...
+ERROR:root:Falha ao clicar no link do nome.
+ERROR:root:Sem resposta antes do timeout para: Sergio Dos Santos Reis: Message: 
+
+INFO:root:Vínculo encontrado no currículo de nome: Sharmênia de Araújo Soares Nuto
+INFO:root:050 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Vanira Matos Pessoa
+INFO:root:029 artigos extraídos
+INFO:root:Vínculo encontrado no currículo de nome: Venúcia Bruna Magalhães Pereira
+INFO:root:006 artigos extraídos
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF58F57650>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/6e6777e2456502a41b119545b3f84d0b
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF587E1E10>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/6e6777e2456502a41b119545b3f84d0b
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DF587E0BD0>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente')': /session/6e6777e2456502a41b119545b3f84d0b
