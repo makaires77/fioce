@@ -1,2 +1,3 @@
 # Ignorar arquivos de cache Python
 __pycache__/
+source/adapters/input/models/cc.en.300.bin
