@@ -1,3 +1,5 @@
 # Ignorar arquivos de cache Python
 __pycache__/
 source/adapters/input/models/cc.en.300.bin
+source/adapters/input/models/cc.en.300.bin.gz
+source/adapters/input/jupyter_notebooks/cc.en.300.bin.gz.part
